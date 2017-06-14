@@ -18,11 +18,11 @@ import java.util.Date;
 /**
  * Created by hzzhujiajun on 2017/6/12.
  */
-@WebFilter(filterName = "LoggingFilter", urlPatterns = { "/*"},
+/*@WebFilter(filterName = "LoggingFilter", urlPatterns = { "*//*"},
 initParams = {
         @WebInitParam(name = "logFileName", value = "log.txt"),
         @WebInitParam(name = "prefix", value = "URI")
-})
+})*/
 public class LoggingFilter implements Filter {
     private PrintWriter logger;
     private String prefix;

@@ -20,7 +20,7 @@ import java.util.concurrent.Executors;
 /**
  * Created by hzzhujiajun on 2017/6/12.
  */
-@WebFilter(filterName = "DownloadCounterFilter", urlPatterns = {"/*"})
+/*@WebFilter(filterName = "DownloadCounterFilter", urlPatterns = {"*//*"})*/
 public class DownloadCounterFilter implements Filter{
     ExecutorService executorService = Executors.newSingleThreadExecutor();
     Properties downLoadLog ;
