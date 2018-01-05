@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Locale;
 
 /**
- * Created by hzzhujiajun on 2017/6/9.
+ * Created by zhujiajunup on 2017/6/9.
  */
 @WebServlet(name = "ShoppingCartServlet", urlPatterns = {
         "/products", "/viewProductDetails",
@@ -58,7 +58,7 @@ public class ShoppingCartServlet extends HttpServlet {
             HttpSession session = request.getSession();
             List<ShoppingItem> cart = (List<ShoppingItem>) session.getAttribute(CART_ATTRIBUTE);
             if(cart == null){
-                cart = new ArrayList<ShoppingItem>();
+                cart = new ArrayList<>();
                 session.setAttribute(CART_ATTRIBUTE, cart);
             }
             cart.add(item);
