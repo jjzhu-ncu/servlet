@@ -3,7 +3,7 @@ package jjzhu.study.product.model;
 import java.io.Serializable;
 
 /**
- * Created by hzzhujiajun on 2017/6/12.
+ * Created by zhujiajunup on 2017/6/12.
  */
 public class Product implements Serializable{
     private String name;

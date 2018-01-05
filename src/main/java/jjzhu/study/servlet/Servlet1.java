@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * Created by hzzhujiajun on 2017/6/14.
+ * Created by zhujiajunup on 2017/6/14.
  */
 @WebServlet(urlPatterns = { "/servlet1" })
 public class Servlet1 extends HttpServlet{

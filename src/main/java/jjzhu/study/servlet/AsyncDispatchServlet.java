@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Created by hzzhujiajun on 2017/6/14.
+ * Created by zhujiajunup on 2017/6/14.
  */
 @WebServlet(name = "AsyncDispatchServlet", urlPatterns = { "/asyncDispatch" },
 asyncSupported = true)

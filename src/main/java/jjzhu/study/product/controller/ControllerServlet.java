@@ -16,7 +16,7 @@ import java.io.IOException;
 import java.util.List;
 
 /**
- * Created by hzzhujiajun on 2017/6/12.
+ * Created by zhujiajunup on 2017/6/12.
  */
 @WebServlet(name = "ControllerServlet", urlPatterns = {
         "/product_input", "/product_save", "/product_list"

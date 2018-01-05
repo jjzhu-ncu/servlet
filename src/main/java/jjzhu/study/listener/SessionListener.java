@@ -11,7 +11,7 @@ import java.awt.dnd.Autoscroll;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * Created by hzzhujiajun on 2017/6/9.
+ * Created by zhujiajunup on 2017/6/9.
  */
 @WebListener(value = "session listener")
 public class SessionListener implements HttpSessionListener, ServletContextListener{

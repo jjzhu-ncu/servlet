@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 /**
- * Created by hzzhujiajun on 2017/6/12.
+ * Created by zhujiajunup on 2017/6/12.
  */
 public class BaseDAO implements DAO{
     protected DataSource dataSource;

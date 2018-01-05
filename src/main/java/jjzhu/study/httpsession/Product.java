@@ -1,7 +1,7 @@
 package jjzhu.study.httpsession;
 
 /**
- * Created by hzzhujiajun on 2017/6/9.
+ * Created by zhujiajunup on 2017/6/9.
  */
 public class Product {
     private int id;

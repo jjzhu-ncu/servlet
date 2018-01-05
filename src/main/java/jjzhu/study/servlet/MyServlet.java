@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 /**
- * Created by hzzhujiajun on 2017/6/9.
+ * Created by zhujiajunup on 2017/6/9.
  */
 @WebServlet(name = "MyServlet", urlPatterns = { "/my" })
 public class MyServlet implements Servlet {

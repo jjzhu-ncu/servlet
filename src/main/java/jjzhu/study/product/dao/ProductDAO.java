@@ -8,7 +8,7 @@ import javax.sql.DataSource;
 import java.util.List;
 
 /**
- * Created by hzzhujiajun on 2017/6/12.
+ * Created by zhujiajunup on 2017/6/12.
  */
 public interface ProductDAO {
     void setDataSource(DataSource dataSource);

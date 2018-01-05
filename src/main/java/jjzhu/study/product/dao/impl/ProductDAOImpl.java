@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by hzzhujiajun on 2017/6/12.
+ * Created by zhujiajunup on 2017/6/12.
  */
 public class ProductDAOImpl extends BaseDAO implements ProductDAO {
     private static final String GET_PRODUCTS_SQL = "SELECT name, description, price from products";

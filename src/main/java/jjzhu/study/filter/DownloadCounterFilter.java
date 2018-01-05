@@ -18,7 +18,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * Created by hzzhujiajun on 2017/6/12.
+ * Created by zhujiajunup on 2017/6/12.
  */
 /*@WebFilter(filterName = "DownloadCounterFilter", urlPatterns = {"*//*"})*/
 public class DownloadCounterFilter implements Filter{

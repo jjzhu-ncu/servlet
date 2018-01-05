@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.io.IOException;
 
 /**
- * Created by hzzhujiajun on 2017/6/12.
+ * Created by zhujiajunup on 2017/6/12.
  */
 //@WebFilter(filterName = "DispatcherFilter", urlPatterns = { "/*" })
 public class DispatcherFilter implements Filter{

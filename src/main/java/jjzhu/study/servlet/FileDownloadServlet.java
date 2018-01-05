@@ -14,7 +14,7 @@ import java.io.IOException;
 import java.io.OutputStream;
 
 /**
- * Created by hzzhujiajun on 2017/6/13.
+ * Created by zhujiajunup on 2017/6/13.
  */
 @WebServlet(urlPatterns = { "/download" })
 public class FileDownloadServlet extends HttpServlet {

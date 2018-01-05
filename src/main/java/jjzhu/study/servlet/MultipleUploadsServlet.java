@@ -14,7 +14,7 @@ import java.io.PrintWriter;
 import java.util.Collection;
 
 /**
- * Created by hzzhujiajun on 2017/6/13.
+ * Created by zhujiajunup on 2017/6/13.
  */
 @WebServlet(urlPatterns = {"/multipleUploads"})
 @MultipartConfig

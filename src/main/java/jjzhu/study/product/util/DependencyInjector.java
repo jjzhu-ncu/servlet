@@ -13,7 +13,7 @@ import java.beans.PropertyVetoException;
 import java.sql.SQLException;
 
 /**
- * Created by hzzhujiajun on 2017/6/12.
+ * Created by zhujiajunup on 2017/6/12.
  */
 public class DependencyInjector {
     private DataSource dataSource;

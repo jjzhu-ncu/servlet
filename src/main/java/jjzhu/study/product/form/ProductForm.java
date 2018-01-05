@@ -1,7 +1,7 @@
 package jjzhu.study.product.form;
 
 /**
- * Created by hzzhujiajun on 2017/6/12.
+ * Created by zhujiajunup on 2017/6/12.
  */
 public class ProductForm {
     private String name;

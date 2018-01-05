@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by hzzhujiajun on 2017/6/9.
+ * Created by zhujiajunup on 2017/6/9.
  */
 @WebServlet(name = "CustomerServlet", urlPatterns = {
         "/customer", "/editCustomer", "/updateCustomer"
